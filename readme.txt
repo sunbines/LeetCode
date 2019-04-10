@@ -1,4 +1,11 @@
-1111
-2222
-3333
-4444
+LeetCode
+========
+
+### LeetCode Algorithm
+
+(Notes: "&hearts;" means you need to buy a book from Leetcode)
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 1 | 方法   |  等等    |  对对对     |
